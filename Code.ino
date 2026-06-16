@@ -1,5 +1,3 @@
-// C++ code
-//
 int gasSensor = A1;
 int tempSensor = A0;
 int buzzer = 7;
